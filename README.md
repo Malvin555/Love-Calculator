@@ -1,4 +1,4 @@
-# Love Calculator
+# Love Calculator [Malvin]
 
 Welcome to the **Love Calculator**! 💖 This simple web app calculates a random "love compatibility" percentage based on the names you enter. Perfect for a bit of fun or for adding a touch of playfulness to your project!
 
